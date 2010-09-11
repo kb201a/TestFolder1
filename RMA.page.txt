@@ -1,5 +1,6 @@
 An extra line here...
 a conflict here!
+another line now.
 
 Order Confirmation
 Order Date: May 2, 2010
