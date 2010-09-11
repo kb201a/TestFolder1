@@ -1,0 +1,5 @@
+/proc/acpi/ibm
+echo "12 blink" > led # blinks a/c plug led
+echo "7 blink" > led # blinks suspend led
+echo "0 blink" > led # blinks lightening led
+
