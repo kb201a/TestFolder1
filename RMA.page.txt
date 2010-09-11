@@ -1,10 +1,6 @@
 An extra line here...
 a conflict here!
-<<<<<<< HEAD
-another line now.
-=======
-another conflict...:w
->>>>>>> edited ‘RMA.page.txt’
+cleared conflict...
 
 Order Confirmation
 Order Date: May 2, 2010
