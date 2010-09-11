@@ -1,5 +1,5 @@
 An extra line here...
-another one.
+a conflict here!
 
 Order Confirmation
 Order Date: May 2, 2010
